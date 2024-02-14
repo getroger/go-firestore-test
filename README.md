@@ -49,7 +49,7 @@ elapsed time: 5.328804541s
 
 ### Get all documents in a collection
 ```bash
-./firestore-test --refs-only --db '(default)' --project live-332912
+./firestore-test --db '(default)' --project live-332912
 ```
 
 Example output:
